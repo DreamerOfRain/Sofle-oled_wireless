@@ -73,8 +73,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '-'
+  - '='
   - DEL
   - {t: ▽, type: trans}
   - INS
@@ -82,7 +82,7 @@ layers:
   - CMENU
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - PG UP
+  - KP NUM
   - {t: ▽, type: trans}
   - UP
   - {t: ▽, type: trans}
@@ -94,7 +94,7 @@ layers:
   - LSHFT
   - {t: ▽, type: trans}
   - CLCK
-  - PG DN
+  - SCROLLLOCK
   - LEFT
   - DOWN
   - RIGHT
@@ -123,7 +123,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
+  - END
   adjust:
   - BT CLR
   - {t: BT, h: '0'}
