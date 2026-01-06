@@ -82,7 +82,7 @@ layers:
   - CMENU
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - KP NUM
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - UP
   - '['
